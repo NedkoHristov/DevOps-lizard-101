@@ -13,6 +13,7 @@ The most significant technologies mentioned will be:
 * Linux - philosophy, utilization
     * Common commands
     * Building parameters and how to memorize them easily
+* git wizardy
 * Linux services
     * Web Servers - nginx / apache
     * Databases (install/login/work with)
