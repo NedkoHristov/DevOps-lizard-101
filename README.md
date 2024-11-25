@@ -4,7 +4,7 @@ Everything I wanted to have when I get into DevOps
 This is a somehow the catalogue of that I've always wanted when I started the DevOps.
 The sections are focused from the basics, trought the technologies and at the end - the interview questions.
 
-The most significant technologies mentioned will be:
+Chapters that will be included:
 
 * Learning how to learn
 * Structured R&D
